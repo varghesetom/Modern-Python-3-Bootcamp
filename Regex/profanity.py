@@ -10,5 +10,5 @@ def censor(input):
     print(replace)
 
 censor("Frack you")
-censor("I hope you fracking die")
+censor("I hope you fracking frack off")
 censor("you Fracking frack")
